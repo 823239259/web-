@@ -1,0 +1,127 @@
+/*顶部上间距*/
+.topmargin43{
+  margin-top: 43px;
+  margin-bottom: 4px;
+}
+/*设置宽度*/
+.widthconm{
+  width: 950px;
+}
+/*调整search*/
+#searchbar{
+  padding-top: 13px;
+}
+/*导航菜单的样式*/
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #555;
+    background-color: #fff;
+    border-bottom: 3px solid #009571;
+}
+#navgation{
+  background-color: #fff;
+  border-top: none;
+  margin-top: 6px;
+  min-height: 47px;
+
+}
+#navgation>.widthconm>ul>li>a{
+  padding-bottom: 9px;
+}
+.thumbnail a>.titleimg{
+  display: inline-block;
+}
+footer a:hover{
+  text-decoration: none;
+}
+h5{
+  font-weight: bold;
+}
+.thumbnail .captionbox{
+  padding-top: 4px;
+  margin-bottom: 9px;
+  
+}
+
+
+.content-meta .nongchang,
+.content-meta time{
+  margin-right: 10px;
+  color:#828282;
+
+}
+.content-meta img{
+  width: 32px;
+}
+.breadcrumb1 {
+
+    background-color: #fff;
+    border-bottom: solid 1px #d7d7d7;
+}
+.icon-bow{
+  display: block;
+  background: url(../img/切片/fly.png) 50% 50% no-repeat;
+  width: 32px;
+  height: 21px;
+  margin: 0 auto;
+  margin-top:-30px;
+  padding: 0 20px;
+  background-color: #fff; 
+}
+#bottom{
+  background: #009571 url(../img/切片/index.png);
+  color: #fff;
+  text-shadow: 1px 1px 1px #048465;
+  margin-top: 20px;
+}
+
+
+#bottom h4{
+  font-size: 18px;
+  color: #075442;
+  text-shadow: 1px 1px 1px #03a67f;
+  background: url(../img/切片/dashed-h.png) repeat-x 50% 50%;
+ 
+}
+
+#bottom h4 span{
+  background: url(../img/切片/emerald.png);
+  padding-right: 10px;
+}
+
+.dashed-v{
+  background: url(../img/切片/dashed-v.png) repeat-y 100% 0;
+  padding: 0 20px 20px 0;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  
+}
+#footer{
+  background: url(../img/切片/emerald-footer.png) repeat-x #097a5f;
+  padding: 30px 0 20px 0;
+  color: #064536;
+  text-shadow: 1px 1px 1px #009571;
+}
+.titfooter{
+  padding: 10px 0;
+}
+.titfooter time,
+.titfooter .nongchang{
+  padding-right: 10px;
+}
+
+
+
+
+.title-line{
+  border-bottom: 1px solid #e8e8e8;
+  margin-bottom: 30px;
+}
+.title-line h3{
+  font-size: 18px;
+  line-height: 1;
+  position: relative;
+  bottom: -13px;
+  background: #fff;
+  display: inline;
+  padding-right: 15px;
+}
